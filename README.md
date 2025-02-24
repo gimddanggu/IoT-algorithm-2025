@@ -106,5 +106,7 @@ https://github.com/user-attachments/assets/01525430-0cdf-4aba-b965-27be144d5d91
 
 ## 8일차
 - 자료구조/알고리즘
-    - 검색
+    - 검색: [[노트북]](./day08/da01_search.ipynb)
+        - 검색 구현1 : [파이썬](./day08/da02.binary_search_practice01.py)
+        - 순차검색, 이진검색 성능 비교 : [파이썬](./day08/da02.binary_search_practice02.py)
     - 코딩테스트
